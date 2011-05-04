@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleDetailViews", "MultipleDetailViews\MultipleDetailViews.csproj", "{1929BCD9-8D97-4C4C-ADC1-9A29254741B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1929BCD9-8D97-4C4C-ADC1-9A29254741B9}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{1929BCD9-8D97-4C4C-ADC1-9A29254741B9}.Debug|iPhone.Build.0 = Debug|iPhone
+		{1929BCD9-8D97-4C4C-ADC1-9A29254741B9}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{1929BCD9-8D97-4C4C-ADC1-9A29254741B9}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{1929BCD9-8D97-4C4C-ADC1-9A29254741B9}.Release|iPhone.ActiveCfg = Release|iPhone
+		{1929BCD9-8D97-4C4C-ADC1-9A29254741B9}.Release|iPhone.Build.0 = Release|iPhone
+		{1929BCD9-8D97-4C4C-ADC1-9A29254741B9}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{1929BCD9-8D97-4C4C-ADC1-9A29254741B9}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MultipleDetailViews\MultipleDetailViews.csproj
+	EndGlobalSection
+EndGlobal

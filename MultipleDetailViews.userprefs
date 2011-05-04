@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultipleDetailViews/RootViewController.cs">
+    <Files>
+      <File FileName="MultipleDetailViews/RootViewController.cs" Line="112" Column="52" />
+      <File FileName="MultipleDetailViews/FirstDetailView.cs" Line="40" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="MultipleDetailViews" expanded="True">
+            <Node name="MainWindow.xib" expanded="True" />
+            <Node name="RootViewController.cs" selected="True" />
+            <Node name="RootViewController.xib" expanded="True" />
+            <Node name="SecondDetailView.xib" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
